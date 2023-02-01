@@ -1,0 +1,21 @@
+body {
+    background-color:#E3FDFD;
+}
+hr {
+        border-color:grey;
+        border-style:dotted none none;
+        height: 0px;
+        border-width:4px;
+        width:10%;
+}
+h1 {
+    display: block;
+    color: #F0997D;
+    text-decoration: underline;
+}
+h3 
+{
+    display: block;
+    color:#C27664;
+    text-decoration: underline;
+}
